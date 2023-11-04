@@ -1,0 +1,17 @@
+.font {
+    font-family: "Brush Script MT", Verdana, sans-serif;
+}
+.header {
+    font-weight: 800;
+    background-color: hsl(200, 70%, 70%);
+    text-align: center;
+}
+.headli {
+    font-size: 24px;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
